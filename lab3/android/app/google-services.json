@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "143600391330",
+    "project_id": "lab3-marija",
+    "storage_bucket": "lab3-marija.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143600391330:android:eb4116ef20eabe1e1333fb",
+        "android_client_info": {
+          "package_name": "com.example.lab3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBzzitlKYOY_sLaRuoRO4o7hao95nkYcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
